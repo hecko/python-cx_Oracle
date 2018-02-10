@@ -29,7 +29,7 @@ running, and the service name of the Oracle Database instance.
 
 Substitute your username, password and connection string in the code.
 For downloaded examples, put these in [`SampleEnv.py`][13] and
-[`SampleEnv.sql`][10], and then follow [`sample/README`][16] to create
+[`SampleEnv.sql`][10], and then follow [`samples/README`][16] to create
 the cx_Oracle sample schema.  SQL scripts to create Oracle Database's
 common sample schemas can be found at
 [github.com/oracle/db-sample-schemas][17].
